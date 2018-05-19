@@ -90,6 +90,9 @@
 
 ## JavaScript 
 
+- [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
+- [MeiTuan](https://github.com/huanxsd/MeiTuan) - MeiTuan App Write In latest React-Native(0.50.1)
+- [murray](https://github.com/Murrayee/murray) - react-native 聊天论坛
 - [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex
 - [unwxapkg](https://github.com/thedreamwork/unwxapkg) - unpack wxapkg
 - [Mozi](https://github.com/duheng/Mozi) - 此项目致力于构建一套最基础，最精简，可维护的react-native项目，支持ios，android 🌹
