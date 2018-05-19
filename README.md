@@ -90,6 +90,8 @@
 
 ## JavaScript 
 
+- [NeteaseNews](https://github.com/h406621397/NeteaseNews) - 一个ReactNative仿网易新闻的Demo
+- [react-native-bookkeeping](https://github.com/378056350/react-native-bookkeeping) - 基于react native, 模仿的鲨鱼记账app
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [nideshop](https://github.com/tumobi/nideshop) - NideShop 开源微信小程序商城服务端（Node.js + ThinkJS）
 - [nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program) - NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
