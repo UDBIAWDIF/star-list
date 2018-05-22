@@ -165,6 +165,8 @@
 
 ## Python 
 
+- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
+- [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when you get a compiler error
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [lsbaws](https://github.com/rspivak/lsbaws) - Let's Build A Web Server
