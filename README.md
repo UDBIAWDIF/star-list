@@ -49,6 +49,7 @@
 
 ## Go 
 
+- [gorose](https://github.com/gohouse/gorose) - Gorose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides five major database drivers: mysql,sqlite3,postgres,oracle,mssql.
 - [gitea](https://github.com/go-gitea/gitea) - Gitea: Git with a cup of tea
 - [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
 - [wemall](https://github.com/shen100/wemall) - 基于react, node.js, go开发的微商城（含微信小程序）
@@ -136,6 +137,7 @@
 
 ## PHP 
 
+- [jackchow-rbac](https://github.com/jackchow123456/jackchow-rbac) - a thinkphp5 rbac feature
 - [xinhu](https://github.com/rainrocka/xinhu) - 信呼，免费开源的办公OA系统，包括APP，pc上客户端，REIM即时通信，服务端等，让每个企业单位都有自己的办公系统。
 - [open_source_bms](https://github.com/xiayulei/open_source_bms) - Open Source BMS 后台管理系统
 - [phptty](https://github.com/walkor/phptty) - Share your terminal as a web application. PHP terminal emulator based on workerman.
@@ -165,6 +167,7 @@
 
 ## Python 
 
+- [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when you get a compiler error
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
