@@ -49,6 +49,7 @@
 
 ## Go 
 
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发中...)
 - [gorose](https://github.com/gohouse/gorose) - Gorose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides five major database drivers: mysql,sqlite3,postgres,oracle,mssql.
 - [gitea](https://github.com/go-gitea/gitea) - Gitea: Git with a cup of tea
 - [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
@@ -67,6 +68,7 @@
 - [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 - [tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a "bang line" in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go more appealing to people used to Python and similar languages which operate most visibly with source code.
 
@@ -95,7 +97,7 @@
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [MeiTuan](https://github.com/huanxsd/MeiTuan) - MeiTuan App Write In latest React-Native(0.50.1)
 - [murray](https://github.com/Murrayee/murray) - react-native 聊天论坛
-- [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex
+- [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，功能丰富，适合学习和日常使用。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex
 - [unwxapkg](https://github.com/thedreamwork/unwxapkg) - unpack wxapkg
 - [Mozi](https://github.com/duheng/Mozi) - 此项目致力于构建一套最基础，最精简，可维护的react-native项目，支持ios，android 🌹
 - [ReactNativeComponents](https://github.com/forrest23/ReactNativeComponents) - React Native组件大全，介绍React Native常用组件的使用方法和使用示例
@@ -137,7 +139,7 @@
 
 ## PHP 
 
-- [jackchow-rbac](https://github.com/jackchow123456/jackchow-rbac) - a thinkphp5 rbac feature
+- [jackchow-rbac](https://github.com/jackchow123456/jackchow-rbac) - a thinkphp5.1 rbac feature
 - [xinhu](https://github.com/rainrocka/xinhu) - 信呼，免费开源的办公OA系统，包括APP，pc上客户端，REIM即时通信，服务端等，让每个企业单位都有自己的办公系统。
 - [open_source_bms](https://github.com/xiayulei/open_source_bms) - Open Source BMS 后台管理系统
 - [phptty](https://github.com/walkor/phptty) - Share your terminal as a web application. PHP terminal emulator based on workerman.
@@ -199,7 +201,6 @@
 ## TypeScript 
 
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 6+, Bootstrap 4 (previously known as ng2-admin)
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vim script 
 
