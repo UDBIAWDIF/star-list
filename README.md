@@ -49,9 +49,11 @@
 
 ## Go 
 
+- [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
+- [livego](https://github.com/runner365/livego) - video live streaming server in pure go
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发中...)
 - [gorose](https://github.com/gohouse/gorose) - Gorose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides five major database drivers: mysql,sqlite3,postgres,oracle,mssql.
-- [gitea](https://github.com/go-gitea/gitea) - Gitea: Git with a cup of tea
+- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
 - [wemall](https://github.com/shen100/wemall) - 基于react, node.js, go开发的微商城（含微信小程序）
 - [request](https://github.com/mozillazg/request) - A developer-friendly HTTP request library for Gopher.
@@ -74,6 +76,7 @@
 
 ## HTML 
 
+- [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [BG-UI](https://github.com/liyu365/BG-UI) - BG-UI，一个可以快速上手的后台UI框架
 - [mqtt](https://github.com/mcxiaoke/mqtt) - MQTT 3.1.1 Protocol Chinese Translation
 - [markdownpad2-nav](https://github.com/PulsGarney/markdownpad2-nav) - A javascript file to generate a content navigation for the markdown document.
@@ -93,6 +96,10 @@
 
 ## JavaScript 
 
+- [light-push](https://github.com/liutian/light-push) - 轻量级推送服务和实时在线监控平台，基于node的socket.io，支持web、android、ios客户端，支持移动端离线推送，可大规模集群部署
+- [KeFu](https://github.com/gytai/KeFu) - 在线客服系统，开发语言：NodeJS。通信库：Socket.IO。UI库：前端SUI，后端LayUI.
+- [eweapp](https://github.com/tumobi/eweapp) - eweapp：ECShop非官方版微信小程序商城
+- [wx-regeo-poiaround-weather](https://github.com/amap-demo/wx-regeo-poiaround-weather) - 基于微信小程序SDK实现的DEMO
 - [RNMars](https://github.com/yinmazuo/RNMars) - React-Native V2EX App
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [MeiTuan](https://github.com/huanxsd/MeiTuan) - MeiTuan App Write In latest React-Native(0.50.1)
@@ -139,11 +146,11 @@
 
 ## PHP 
 
-- [jackchow-rbac](https://github.com/jackchow123456/jackchow-rbac) - a thinkphp5.1 rbac feature
+- [jackchow-rbac](https://github.com/jackchow123456/jackchow-rbac) - a thinkphp5 rbac feature
 - [xinhu](https://github.com/rainrocka/xinhu) - 信呼，免费开源的办公OA系统，包括APP，pc上客户端，REIM即时通信，服务端等，让每个企业单位都有自己的办公系统。
 - [open_source_bms](https://github.com/xiayulei/open_source_bms) - Open Source BMS 后台管理系统
 - [phptty](https://github.com/walkor/phptty) - Share your terminal as a web application. PHP terminal emulator based on workerman.
-- [vbot](https://github.com/HanSon/vbot) - 💬The best wechat robot base on web api!
+- [vbot](https://github.com/Hanson/vbot) - 💬The best wechat robot base on web api!
 - [phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [elasticsearch-php](https://github.com/elastic/elasticsearch-php) - Official PHP low-level client for Elasticsearch.
 - [MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
@@ -158,7 +165,7 @@
 - [xhprof](https://github.com/longxinH/xhprof) - PHP7 support
 - [thinkng](https://github.com/top-think/thinkng) - 基于 ThinkPHP 5 框架核心重写的下一代 ThinkPHP
 - [think-angular](https://github.com/top-think/think-angular) - think-angular模板引擎
-- [think](https://github.com/top-think/think) - PHP Framework ThinkPHP5——为API开发而设计的高性能PHP框架（基于PHP5.4+）
+- [think](https://github.com/top-think/think) - PHP Framework ThinkPHP5——为API开发而设计的高性能PHP框架
 - [think-image](https://github.com/top-think/think-image) - thinkphp5 图像处理类
 - [framework](https://github.com/top-think/framework) - ThinkPHP5 Framework
 - [thinkphp](https://github.com/top-think/thinkphp) - ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
@@ -169,15 +176,16 @@
 
 ## Python 
 
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when you get a compiler error
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [lsbaws](https://github.com/rspivak/lsbaws) - Let's Build A Web Server
 - [pymqant](https://github.com/liangdas/pymqant) - python版本mqant游戏框架
 - [ProcessHandler](https://github.com/rfyiamcool/ProcessHandler) - 🍭 Manage your python app's process !
-- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - Python wrapper of Microsoft UIAutomation. Compatible with py2,py3,x86,x64. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt(partly), IE, Firefox ...
 - [ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
