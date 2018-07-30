@@ -8,6 +8,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -19,6 +20,7 @@
   - [PLpgSQL](#plpgsql)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -27,6 +29,7 @@
 
 ## C 
 
+- [EpMedia](https://github.com/yangjie10930/EpMedia) - Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，变速，添加LOGO，添加滤镜，添加背景音乐，加速减速视频，倒放音视频。
 - [php-go](https://github.com/kitech/php-go) - Write PHP extension using go/golang. Zend API wrapper for go/golang.
 - [zqf](https://github.com/qieangel2013/zqf) - A high performance service tool for PHP
 - [xhyve](https://github.com/mist64/xhyve) - xhyve, a lightweight OS X virtualization solution
@@ -36,22 +39,36 @@
 
 ## C# # 
 
+- [OzgMenuSys](https://github.com/ouzhigang/OzgMenuSys) - Ozg点餐系统，NodeJS + Android + .Net ，基于WebSocket。
 - [Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex.
 - [UnitySocketProtobuf3Demo](https://github.com/Mikejinhua/UnitySocketProtobuf3Demo) - Unity,Protobuf3,Tcp,Client,Leaf,Golang
 
 ## C++ 
 
+- [Tars](https://github.com/Tencent/Tars) - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.
+- [OzgGameEatFish](https://github.com/ouzhigang/OzgGameEatFish) - OzgGame - 大鱼吃小鱼，cocos2d-x-3.9
 - [CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
 - [wing-process](https://github.com/jilieryuyi/wing-process) - php cross platform multi process and daemon process support
 - [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [sphinx](https://github.com/hetao29/sphinx) - Sphinx for Chinese with scws 使用方法参考 https://github.com/hetao29/sphinx-chinese
+
+## Erlang 
+
+- [emqttd](https://github.com/emqtt/emqttd) - EMQ - Erlang MQTT Broker
 
 ## Go 
 
+- [cron](https://github.com/robfig/cron) - a cron library for go
+- [bzppx-codepub](https://github.com/bzppx/bzppx-codepub) - 暴走皮皮虾之代码发布系统,是现代的持续集成发布系统,由后台管理系统和agent两部分组成,一个运行着的agent就是一个节点,本系统并不是造轮子,是"鸟枪"到"大炮"的创新,对"前朝遗老"的革命.
+- [beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
+- [go-libav](https://github.com/imkira/go-libav) - Go language bindings for ffmpeg libraries
+- [goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg
+- [livego](https://github.com/gwuhaolin/livego) - 纯 Go 写的直播服务器
+- [meq](https://github.com/meqio/meq) - A modern messaging platform for Message Push、IM、IoT etc, based on MQTT protocol
+- [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language  bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
-- [livego](https://github.com/runner365/livego) - video live streaming server in pure go
-- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源免费图书(开发中...)
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题
 - [gorose](https://github.com/gohouse/gorose) - Gorose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides five major database drivers: mysql,sqlite3,postgres,oracle,mssql.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
@@ -85,6 +102,11 @@
 
 ## Java 
 
+- [jhipster](https://github.com/jhipster/jhipster) - JHipster BOM and server-side library
+- [OrderSystem](https://github.com/Titzanyic/OrderSystem) - 点餐系统 包括android客户端-后台服务
+- [LQRWeChat](https://github.com/zwStar/LQRWeChat) - 本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。
+- [SpringBoot_Wechat_Sell](https://github.com/ldlood/SpringBoot_Wechat_Sell) - SpringBoot微信点餐系统
+- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. State of the Art Redis client
 - [rest-client](https://github.com/Wisdom-Projects/rest-client) - A tool for automated testing REST API, generating exquisite testing report and REST API documentation.
 - [AndroidMultiChannelBuildTool](https://github.com/GavinCT/AndroidMultiChannelBuildTool) - 安卓多渠道打包工具
 - [IM](https://github.com/xiuweikang/IM) - 简单的仿QQ聊天安卓APP
@@ -96,6 +118,10 @@
 
 ## JavaScript 
 
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
+- [jeesite4](https://github.com/thinkgem/jeesite4) - Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE），在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源
+- [jeesite](https://github.com/thinkgem/jeesite) - JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
+- [meituan-backend](https://github.com/zwStar/meituan-backend) - 模仿美团外卖后端
 - [light-push](https://github.com/liutian/light-push) - 轻量级推送服务和实时在线监控平台，基于node的socket.io，支持web、android、ios客户端，支持移动端离线推送，可大规模集群部署
 - [KeFu](https://github.com/gytai/KeFu) - 在线客服系统，开发语言：NodeJS。通信库：Socket.IO。UI库：前端SUI，后端LayUI.
 - [eweapp](https://github.com/tumobi/eweapp) - eweapp：ECShop非官方版微信小程序商城
@@ -104,14 +130,13 @@
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [MeiTuan](https://github.com/huanxsd/MeiTuan) - MeiTuan App Write In latest React-Native(0.50.1)
 - [murray](https://github.com/Murrayee/murray) - react-native 聊天论坛
-- [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，功能丰富，适合学习和日常使用。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex
+- [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative三个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，跨框架对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款Flutter版本 ： https://github.com/CarGuo/GSYGithubAppFlutter
 - [unwxapkg](https://github.com/thedreamwork/unwxapkg) - unpack wxapkg
 - [Mozi](https://github.com/duheng/Mozi) - 此项目致力于构建一套最基础，最精简，可维护的react-native项目，支持ios，android 🌹
 - [ReactNativeComponents](https://github.com/forrest23/ReactNativeComponents) - React Native组件大全，介绍React Native常用组件的使用方法和使用示例
-- [NeteaseNews](https://github.com/h406621397/NeteaseNews) - 一个ReactNative仿网易新闻的Demo
+- [NeteaseNews](https://github.com/h406621397/NeteaseNews) - ReactNative -- 网易新闻APP
 - [react-native-bookkeeping](https://github.com/378056350/react-native-bookkeeping) - 基于react native, 模仿的鲨鱼记账app
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
-- [nideshop](https://github.com/tumobi/nideshop) - NideShop 开源微信小程序商城服务端（Node.js + ThinkJS）
 - [nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program) - NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
 - [wechat-weapp-mall](https://github.com/liuxuanqiang/wechat-weapp-mall) - 微信小程序-移动端商城
 - [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
@@ -136,16 +161,21 @@
 
 ## Objective-C 
 
+- [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) - 炉火餐饮系统 iPad 点餐端
 - [TeamTalk](https://github.com/meili/TeamTalk) - TeamTalk is a solution for enterprise IM
 - [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。
 - [TLChat](https://github.com/tbl00c/TLChat) - 高仿微信
 
 ## Others 
 
+- [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 
 ## PHP 
 
+- [openwan](https://github.com/thinkgem/openwan) - 媒体资产管理系统
+- [swoftInTars](https://github.com/dpp2009/swoftInTars) - swoft框架欢快的跑在tars里面
+- [php-msf](https://github.com/pinguo/php-msf) - PHP微服务框架即Micro Service Framework For PHP
 - [jackchow-rbac](https://github.com/jackchow123456/jackchow-rbac) - a thinkphp5 rbac feature
 - [xinhu](https://github.com/rainrocka/xinhu) - 信呼，免费开源的办公OA系统，包括APP，pc上客户端，REIM即时通信，服务端等，让每个企业单位都有自己的办公系统。
 - [open_source_bms](https://github.com/xiayulei/open_source_bms) - Open Source BMS 后台管理系统
@@ -172,10 +202,12 @@
 
 ## PLpgSQL 
 
+- [nideshop](https://github.com/tumobi/nideshop) - NideShop 开源微信小程序商城服务端（Node.js + ThinkJS）
 - [blog](https://github.com/digoal/blog) - Everything about database,bussiness.
 
 ## Python 
 
+- [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
@@ -198,6 +230,10 @@
 
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 
+## Scala 
+
+- [C1000K-Servers](https://github.com/smallnest/C1000K-Servers) - :zap: High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections
+
 ## Shell 
 
 - [mailserver](https://github.com/hardware/mailserver) - :whale: Simple and full-featured mail server using Docker
@@ -216,6 +252,8 @@
 
 ## Vue 
 
+- [vue-meituan](https://github.com/zwStar/vue-meituan) - vue+node+mongodb仿美团外卖点餐系统带支付功能
+- [VUE-ELM](https://github.com/ldlood/VUE-ELM) - 基于Vue.js仿饿了么点餐App
 - [vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - The web management system solution based on Vue2 and Element UI.
