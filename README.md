@@ -14,7 +14,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [Jupyter Notebook](#jupyter-notebook)
+  - [Jupyter Notebook](#jupyter notebook)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Objective-C](#objective-c)
@@ -27,7 +27,7 @@
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [Vim script](#vim-script)
+  - [Vim script](#vim script)
   - [Vue](#vue)
 
 ## C 
@@ -75,6 +75,7 @@
 
 ## Go 
 
+- [surgemq](https://github.com/zentures/surgemq) - (Unmaintained) High-Performance MQTT Server and Client Libraries
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly  - JSON Parser for Go
 - [gnatsd](https://github.com/nats-io/gnatsd) - High-Performance server for NATS, the cloud native messaging system.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -150,6 +151,7 @@
 
 ## Java 
 
+- [paascloud-master](https://github.com/paascloud/paascloud-master) - spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
 - [cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的即时通讯系统
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [qmq](https://github.com/qunarcorp/qmq) - QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
@@ -187,6 +189,7 @@
 
 ## JavaScript 
 
+- [leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [admin](https://github.com/beego/admin) - 基于beego的后台管理系统
 - [BaiduExporter](https://github.com/acgotaku/BaiduExporter) - Assistant for Baidu to export download links to aria2/aria2-rpc
 - [citySelect](https://github.com/chenjinxinlove/citySelect) - 基于微信小程序的城市选择
@@ -218,7 +221,7 @@
 - [jeesite4](https://github.com/thinkgem/jeesite4) - Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE），在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源
 - [jeesite](https://github.com/thinkgem/jeesite) - JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
 - [meituan-backend](https://github.com/zwStar/meituan-backend) - 模仿美团外卖后端
-- [light-push](https://github.com/liutian/light-push) - 轻量级推送服务和实时在线监控平台，基于node的socket.io，支持web、android、ios客户端，支持移动端离线推送，可大规模集群部署
+- [light-push](https://github.com/liutian/light-push) - 轻量级推送服务和实时在线监控平台，同时用于开发即时通信系统，基于node的socket.io，支持web、android、ios客户端，支持移动端离线推送，可进行分布式部署
 - [KeFu](https://github.com/gytai/KeFu) - 在线客服系统，开发语言：NodeJS。通信库：Socket.IO。UI库：前端SUI，后端LayUI.
 - [eweapp](https://github.com/tumobi/eweapp) - eweapp：ECShop非官方版微信小程序商城
 - [wx-regeo-poiaround-weather](https://github.com/amap-demo/wx-regeo-poiaround-weather) - 基于微信小程序SDK实现的DEMO
@@ -316,7 +319,7 @@
 - [MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
 - [Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 - [Beanbun](https://github.com/kiddyuchina/Beanbun) - Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。
-- [pixie](https://github.com/usmanhalalit/pixie) - [Not Actively Maintained] Database query builder for PHP, framework agnostic, lightweight and expressive.
+- [pixie](https://github.com/usmanhalalit/pixie) - Database query builder for PHP, framework agnostic, lightweight and expressive.
 - [thinkcmf](https://github.com/thinkcmf/thinkcmf) - ThinkCMF5  is a content manage framework ,based on ThinkPHP5
 - [react](https://github.com/reactphp/react) - Event-driven, non-blocking I/O with PHP.
 - [think-worker](https://github.com/top-think/think-worker) - ThinkPHP5 Workerman extend
@@ -336,6 +339,8 @@
 
 ## Python 
 
+- [darkflow](https://github.com/thtrieu/darkflow) - Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
+- [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - [python3-concurrency-pics-02](https://github.com/wangy8961/python3-concurrency-pics-02) - 爬取 www.mzitu.com 全站图片，截至目前共4564个图集，13.7万多张美女图片，使用 asyncio 和 aiohttp 实现的异步版本只需要不到2小时就能爬取完成。按日期创建图集目录，保存更合理。控制台只显示下载的进度条，详细信息保存在日志文件中。支持异常处理，不会终止爬虫程序。失败的请求，下次再执行爬虫程序时会自动下载
 - [celerybeatredis](https://github.com/liuliqiang/celerybeatredis) - celery redis scheduler, dynamic add/modify/delete task from celery.
 - [redlock-py](https://github.com/SPSCommerce/redlock-py) - Redis distributed locks in Python
@@ -379,6 +384,8 @@
 
 ## TypeScript 
 
+- [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) - 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
+- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters
 - [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin)
