@@ -22,7 +22,6 @@
   - [PLpgSQL](#plpgsql)
   - [Python](#python)
   - [Roff](#roff)
-  - [Ruby](#ruby)
   - [Scala](#scala)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -40,14 +39,14 @@
 - [EpMedia](https://github.com/yangjie10930/EpMedia) - Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，变速，添加LOGO，添加滤镜，添加背景音乐，加速减速视频，倒放音视频。
 - [php-go](https://github.com/kitech/php-go) - Write PHP extension using go/golang. Zend API wrapper for go/golang.
 - [zqf](https://github.com/qieangel2013/zqf) - A high performance service tool for PHP
-- [xhyve](https://github.com/mist64/xhyve) - xhyve, a lightweight OS X virtualization solution
+- [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
 - [DBProxy](https://github.com/Meituan-Dianping/DBProxy) - 
 - [php-beast](https://github.com/liexusong/php-beast) - PHP source code encrypt module (PHP源码加密模块)
 - [node-images](https://github.com/UDBIAWDIF/node-images) - Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs
 
 ## C# # 
 
-- [peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP 7 compiler and runtime for .NET and .NET Core
+- [peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
 - [OzgMenuSys](https://github.com/ouzhigang/OzgMenuSys) - Ozg点餐系统，NodeJS + Android + .Net ，基于WebSocket。
 - [Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex.
 - [UnitySocketProtobuf3Demo](https://github.com/Mikejinhua/UnitySocketProtobuf3Demo) - 主要实现了用Unity对接了Leaf服务器。其次带了些小工具。
@@ -59,7 +58,7 @@
 - [CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
 - [wing-process](https://github.com/jilieryuyi/wing-process) - php cross platform multi process and daemon process support
 - [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [sphinx](https://github.com/hetao29/sphinx) - Sphinx for Chinese with scws 使用方法参考 https://github.com/hetao29/sphinx-chinese
 
 ## CSS 
@@ -72,6 +71,11 @@
 
 ## Go 
 
+- [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂课程PPT及代码
+- [go-chassis](https://github.com/go-chassis/go-chassis) - a high performance microservice framework for rapid development of micro services in Go
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
+- [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - Golang push server cluster
 - [im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
 - [kcp-go](https://github.com/xtaci/kcp-go) - A Production-Grade Reliable-UDP Library for golang
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -114,6 +118,7 @@
 
 ## HTML 
 
+- [sjERP](https://github.com/co8bit/sjERP) - 神记ERP是一款基于SaaS的经营管理软件（ERP、进销存、CRM、生产管理），适用于财务、销售与采购、供应链管理、仓储库存、微商城经营等。业务流程的每一环节都可沟通协作，真正实现一站式管理销售、采购、库存账目等需求。语言：php（thinkphp）+angularjs/vue
 - [XYShop](https://github.com/freedomlizhigang/XYShop) - 单用户商城
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [BG-UI](https://github.com/liyu365/BG-UI) - BG-UI，一个可以快速上手的后台UI框架
@@ -124,6 +129,20 @@
 
 ## Java 
 
+- [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
+- [xxl-conf](https://github.com/xuxueli/xxl-conf) - A distributed configuration management platform.（分布式配置管理平台XXL-CONF）
+- [xxl-job](https://github.com/xuxueli/xxl-job) - A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [xxl-mq](https://github.com/xuxueli/xxl-mq) - A lightweight distributed message queue framework.(分布式消息队列XXL-MQ)
+- [xxl-rpc](https://github.com/xuxueli/xxl-rpc) - A high performance, distributed RPC framework.（分布式服务框架XXL-RPC）
+- [xxl-cache](https://github.com/xuxueli/xxl-cache) - 分布式缓存管理平台XXL-CACHE
+- [xxl-glue](https://github.com/xuxueli/xxl-glue) - a distributed logical management platform. (分布式逻辑管理平台XXL-GLUE)
+- [xxl-search](https://github.com/xuxueli/xxl-search) - 搜索应用参考示例XXL-SEARCH
+- [xxl-push](https://github.com/xuxueli/xxl-push) - 🌱 push、im
+- [xxl-sso](https://github.com/xuxueli/xxl-sso) - A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [mpush](https://github.com/mpusher/mpush) - MPush开源实时消息推送系统
+- [mpush-client-java](https://github.com/mpusher/mpush-client-java) - mpush java client
+- [spring-cloud-demo](https://github.com/chxfantasy/spring-cloud-demo) - This repo is a spring-cloud-demo, can be used for a server backend
 - [weixin-shop-spring-cloud](https://github.com/chengzhx76/weixin-shop-spring-cloud) - 微信商城SpringCloud版本 - 前端vue-shop
 - [goim-java-sdk](https://github.com/roamdy/goim-java-sdk) - 
 - [Tut-android](https://github.com/DLTech21/Tut-android) - 即时聊天，自带服务器，有朋友圈功能等等
@@ -144,6 +163,13 @@
 
 ## JavaScript 
 
+- [ones](https://github.com/nemoxiaolan/ones) - ONES is notonly an ERP system. using AngularJS, PHP and MySQL.
+- [config-keeper](https://github.com/sxfad/config-keeper) - 基于Spring Boot 和Spring Cloud开发的配置中心,无缝兼容Spring Boot 和 Spring Cloud应用
+- [ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
+- [mpvue-vuex-demo](https://github.com/davidlin88/mpvue-vuex-demo) - 用mpvue构建的小程序-vue模板项目，还引入了vuex,sass,flyio等
+- [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [workerman-webrtc](https://github.com/walkor/workerman-webrtc) - php webrtc demo based on workerman
 - [pinche_xcx](https://github.com/vincenth520/pinche_xcx) - 同城拼车微信小程序:blush:
 - [miniProgramAmap](https://github.com/zzwwjjdj319/miniProgramAmap) - 微信小程序基于高德地图API出行路线规划,地图导航
@@ -169,12 +195,13 @@
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [MeiTuan](https://github.com/huanxsd/MeiTuan) - MeiTuan App Write In latest React-Native(0.50.1)
 - [murray](https://github.com/murrayee/murray) - react-native 聊天论坛
-- [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative三个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，跨框架对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款Flutter版本 ： https://github.com/CarGuo/GSYGithubAppFlutter
+- [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，配套文章，适合全面学习，对比参考。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款Flutter版本 ： https://github.com/CarGuo/GSYGithubAppFlutter 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
 - [unwxapkg](https://github.com/thedreamwork/unwxapkg) - unpack wxapkg
 - [Mozi](https://github.com/duheng/Mozi) - 此项目致力于构建一套最基础，最精简，可维护的react-native项目，支持ios，android 🌹
 - [ReactNativeComponents](https://github.com/forrest23/ReactNativeComponents) - React Native组件大全，介绍React Native常用组件的使用方法和使用示例
 - [NeteaseNews](https://github.com/h406621397/NeteaseNews) - ReactNative -- 网易新闻APP
 - [react-native-bookkeeping](https://github.com/378056350/react-native-bookkeeping) - 基于react native, 模仿的鲨鱼记账app
+- [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [nideshop](https://github.com/tumobi/nideshop) - NideShop 开源微信小程序商城服务端（Node.js + ThinkJS）
 - [nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program) - NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
@@ -214,12 +241,22 @@
 
 ## Others 
 
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud) - Spring Cood 资源大全
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 
 ## PHP 
 
+- [dsmall](https://github.com/pukm/dsmall) - 
+- [ERP](https://github.com/jerryhanjj/ERP) - ERP 进存销系统
+- [laraerp](https://github.com/laraerp/laraerp) - ERP brasileiro de código fonte aberto escrito em PHP utilizando o Laravel Framework
+- [dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
+- [inoERP](https://github.com/inoerp/inoERP) - inoERP is a PHP-based open source enterprise management system that can be used with several databases - such as Oracle 12c, MariaDB, MySQL. The ERP system contains all the functionalities required for running any manufacturing, service or distribution organization. The features are very similar to Oracle R12/ Fusion Application and SAP. It also contains a lightweight CMS, which seamlessly integrates with the ERP system
+- [PhpMQTTClient](https://github.com/tokudu/PhpMQTTClient) - This is a simple example of how send MQTT messages using PHP
+- [php-jwt](https://github.com/firebase/php-jwt) - PEAR package for JWT
+- [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP 5.1 基础开发平台（后台开发）
+- [wechat-third-server](https://github.com/Lin07ux/wechat-third-server) - 使用 ThinkPHP、Vue 搭建一个带有后台的微信公众号第三方服务器的基础模板
 - [laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
 - [verydows](https://github.com/Verytops/verydows) - B2C商城系统 PC端+H5移动端 + 微信端 快速为你构建自己的商城系统
 - [pinche_xcx_data](https://github.com/vincenth520/pinche_xcx_data) - 同城拼车微信小程序后端代码
@@ -258,6 +295,8 @@
 
 ## Python 
 
+- [VManagePlatform](https://github.com/welliamcao/VManagePlatform) - Kvm  Manage WebUI
+- [python-ngrok](https://github.com/hauntek/python-ngrok) - 
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -280,10 +319,6 @@
 ## Roff 
 
 - [nami](https://github.com/wodenwang/nami) - 专为小程序而生的服务端开发容器
-
-## Ruby 
-
-- [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 
 ## Scala 
 
@@ -310,6 +345,7 @@
 
 ## Vue 
 
+- [vue-spa-wx-shangchao](https://github.com/didilinkin/vue-spa-wx-shangchao) - 上朝科技 - 物业管理系统 - 微信公众号网站 - Vue2.0
 - [vue2-shop](https://github.com/nemo-tree/vue2-shop) - 基于vue全家桶的移动端 电商商城
 - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
