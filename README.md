@@ -53,10 +53,11 @@
 
 ## C++ 
 
+- [predixy](https://github.com/joyieldInc/predixy) - A high performance and fully featured proxy for redis, support redis sentinel and redis cluster
 - [Tars](https://github.com/TarsCloud/Tars) - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.
 - [OzgGameEatFish](https://github.com/ouzhigang/OzgGameEatFish) - OzgGame - 大鱼吃小鱼，cocos2d-x-3.9
 - [CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
-- [wing-process](https://github.com/jilieryuyi/wing-process) - php cross platform multi process and daemon process support
+- [wing-process](https://github.com/jilieryuyi/wing-process) - The easy way to use php daemon process and multi process in windows、mac and linux
 - [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [sphinx](https://github.com/hetao29/sphinx) - Sphinx for Chinese with scws 使用方法参考 https://github.com/hetao29/sphinx-chinese
@@ -67,13 +68,14 @@
 
 ## Erlang 
 
-- [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Massively Scalable MQTT Messaging Broker
+- [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Messaging Broker
 
 ## Go 
 
+- [redsync.go](https://github.com/hjr265/redsync.go) - *DEPRECATED* Please use https://gopkg.in/redsync.v1 (https://github.com/go-redsync/redsync)
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂课程PPT及代码
-- [go-chassis](https://github.com/go-chassis/go-chassis) - a high performance microservice framework for rapid development of micro services in Go
+- [go-chassis](https://github.com/go-chassis/go-chassis) - a microservice framework for rapid development of micro services in Go
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - Golang push server cluster
 - [im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
@@ -84,7 +86,7 @@
 - [centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging server (Websocket and SockJS)
 - [sockjs-go](https://github.com/igm/sockjs-go) - WebSocket emulation - Go server library
 - [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
-- [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.
+- [rainbond](https://github.com/goodrain/rainbond) - Enterprise application cloud operating system(企业应用云操作系统)
 - [cron](https://github.com/robfig/cron) - a cron library for go
 - [bzppx-codepub](https://github.com/bzppx/bzppx-codepub) - 暴走皮皮虾之代码发布系统,是现代的持续集成发布系统,由后台管理系统和agent两部分组成,一个运行着的agent就是一个节点,本系统并不是造轮子,是"鸟枪"到"大炮"的创新,对"前朝遗老"的革命.
 - [beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
@@ -94,7 +96,7 @@
 - [meq](https://github.com/mafanr/meq) - A modern messaging platform for Message Push、IM、IoT etc, based on MQTT protocol
 - [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language  bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
-- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [gorose](https://github.com/gohouse/gorose) - GoRose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides five major database drivers: mysql,sqlite3,postgres,oracle,mssql.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [golang123](https://github.com/shen100/golang123) - golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统
@@ -129,8 +131,9 @@
 
 ## Java 
 
+- [grpc-spring-boot-starter](https://github.com/yidongnan/grpc-spring-boot-starter) - Spring Boot starter module for gRPC framework.
 - [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
-- [xxl-conf](https://github.com/xuxueli/xxl-conf) - A distributed configuration management platform.（分布式配置管理平台XXL-CONF）
+- [xxl-conf](https://github.com/xuxueli/xxl-conf) - A lightweight distributed configuration management platform. （分布式配置管理平台XXL-CONF）
 - [xxl-job](https://github.com/xuxueli/xxl-job) - A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 - [xxl-mq](https://github.com/xuxueli/xxl-mq) - A lightweight distributed message queue framework.(分布式消息队列XXL-MQ)
 - [xxl-rpc](https://github.com/xuxueli/xxl-rpc) - A high performance, distributed RPC framework.（分布式服务框架XXL-RPC）
@@ -144,25 +147,30 @@
 - [mpush-client-java](https://github.com/mpusher/mpush-client-java) - mpush java client
 - [spring-cloud-demo](https://github.com/chxfantasy/spring-cloud-demo) - This repo is a spring-cloud-demo, can be used for a server backend
 - [weixin-shop-spring-cloud](https://github.com/chengzhx76/weixin-shop-spring-cloud) - 微信商城SpringCloud版本 - 前端vue-shop
-- [goim-java-sdk](https://github.com/roamdy/goim-java-sdk) - 
+- [goim-java-sdk](https://github.com/roamdy/goim-java-sdk) - goim 系统的 java sdk
 - [Tut-android](https://github.com/DLTech21/Tut-android) - 即时聊天，自带服务器，有朋友圈功能等等
 - [pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [taoshop](https://github.com/u014427391/taoshop) - 开源电子商务项目，SpringBoot+Dubbo技术栈实现微服务，实现一款分布式集群的电商系统. 项目releases链接：https://github.com/u014427391/taoshop/releases  (开发中...)
 - [jhipster](https://github.com/jhipster/jhipster) - JHipster BOM and server-side library
 - [OrderSystem](https://github.com/Titzanyic/OrderSystem) - 点餐系统 包括android客户端-后台服务
 - [LQRWeChat](https://github.com/zwStar/LQRWeChat) - 本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。
-- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. State of the Art Redis client
+- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. State of the Art Redis Java client
 - [rest-client](https://github.com/wisdom-projects/rest-client) - A tool for automated testing REST API, generating exquisite testing report and REST API documentation.
 - [AndroidMultiChannelBuildTool](https://github.com/GavinCT/AndroidMultiChannelBuildTool) - 安卓多渠道打包工具
 - [IM](https://github.com/xiuweikang/IM) - 简单的仿QQ聊天安卓APP
 - [DingDingHelper](https://github.com/Justson/DingDingHelper) - 钉钉打卡工具, 是一款基于Android设备上班自动打卡工具,再也不怕迟到了
 - [cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
-- [incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [jenkins](https://github.com/kohsuke/jenkins) - Jenkins Continuous Integration server
 - [MSEC](https://github.com/Tencent/MSEC) - Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.
 
 ## JavaScript 
 
+- [BaiduExporter](https://github.com/acgotaku/BaiduExporter) - Assistant for Baidu to export download links to aria2/aria2-rpc
+- [citySelect](https://github.com/chenjinxinlove/citySelect) - 基于微信小程序的城市选择
+- [citySelector](https://github.com/BeijiYang/citySelector) - 微信小程序 城市/区县定位选择模块 汉字/拼音搜索 可直接使用 已更新 另附 mpvue 版本 city picker / automatic positioning
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
+- [html2wxml](https://github.com/qwqoffice/html2wxml) - 用于微信小程序的HTML和Markdown格式的富文本渲染组件，支持代码高亮
+- [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
 - [ones](https://github.com/nemoxiaolan/ones) - ONES is notonly an ERP system. using AngularJS, PHP and MySQL.
 - [config-keeper](https://github.com/sxfad/config-keeper) - 基于Spring Boot 和Spring Cloud开发的配置中心,无缝兼容Spring Boot 和 Spring Cloud应用
 - [ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
@@ -213,10 +221,11 @@
 - [bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 3.x with file preview, multiple selection, and more features.
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 - [vue-demo-kugou](https://github.com/lavyun/vue-demo-kugou) - 酷狗webapp demo(vue2.0+vue-router+vuex)
+- [incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
 - [react-antd-admin](https://github.com/fireyy/react-antd-admin) - This Project Is Deprecated. Use [Ant Design Pro](https://pro.ant.design/) instead.
 - [validator.js](https://github.com/chriso/validator.js) - String validation
-- [docute](https://github.com/leptosia/docute) - :scroll: Effortless documentation, done right.
+- [docute](https://github.com/leptosia/docute) - 📚 Effortless documentation, done right.
 - [zkdash](https://github.com/ireaderlab/zkdash) - A dashboard for zookeeper and Qconf
 - [cmdb](https://github.com/voilet/cmdb) - cmdb saltstack
 - [angular-ueditor](https://github.com/zqjimlove/angular-ueditor) - Angular port for Baidu UEditor
@@ -233,7 +242,7 @@
 
 ## Objective-C 
 
-- [goim-oc-sdk](https://github.com/roamdy/goim-oc-sdk) - 
+- [goim-oc-sdk](https://github.com/roamdy/goim-oc-sdk) - goim 系统的 Object-c sdk
 - [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) - 炉火餐饮系统 iPad 点餐端
 - [TeamTalk](https://github.com/meili/TeamTalk) - TeamTalk is a solution for enterprise IM
 - [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。
@@ -248,6 +257,10 @@
 
 ## PHP 
 
+- [Talkback](https://github.com/johnnyhuila2016/Talkback) - 手机对讲系统
+- [lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code.
+- [redlock-php](https://github.com/ronnylt/redlock-php) - Redis distributed locks in PHP
+- [easyswoole](https://github.com/easy-swoole/easyswoole) - High performance  Coroutine PHP Framework, base on Swoole
 - [dsmall](https://github.com/pukm/dsmall) - 
 - [ERP](https://github.com/jerryhanjj/ERP) - ERP 进存销系统
 - [laraerp](https://github.com/laraerp/laraerp) - ERP brasileiro de código fonte aberto escrito em PHP utilizando o Laravel Framework
@@ -291,10 +304,13 @@
 
 ## PLpgSQL 
 
-- [blog](https://github.com/digoal/blog) - Everything about database,bussiness.
+- [blog](https://github.com/digoal/blog) - Everything about database,bussiness.(Most for PostgreSQL).
 
 ## Python 
 
+- [celerybeatredis](https://github.com/liuliqiang/celerybeatredis) - celery redis scheduler, dynamic add/modify/delete task from celery.
+- [RoudDetect](https://github.com/wwbweibo/RoudDetect) - 道路裂缝识别
+- [redlock-py](https://github.com/SPSCommerce/redlock-py) - Redis distributed locks in Python
 - [VManagePlatform](https://github.com/welliamcao/VManagePlatform) - Kvm  Manage WebUI
 - [python-ngrok](https://github.com/hauntek/python-ngrok) - 
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
@@ -302,7 +318,7 @@
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
-- [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results after compiler errors
+- [rebound](https://github.com/shobrook/rebound) - Command-line tool that automatically fetches Stack Overflow results after compiler errors
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [lsbaws](https://github.com/rspivak/lsbaws) - Let's Build A Web Server
@@ -335,7 +351,7 @@
 
 ## TypeScript 
 
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 6+, Bootstrap 4 (previously known as ng2-admin)
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin)
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
 ## Vim script 
