@@ -72,6 +72,7 @@
 
 ## Go 
 
+- [imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
 - [redsync.go](https://github.com/hjr265/redsync.go) - *DEPRECATED* Please use https://gopkg.in/redsync.v1 (https://github.com/go-redsync/redsync)
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂课程PPT及代码
@@ -131,6 +132,8 @@
 
 ## Java 
 
+- [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [qmq](https://github.com/qunarcorp/qmq) - QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
 - [grpc-spring-boot-starter](https://github.com/yidongnan/grpc-spring-boot-starter) - Spring Boot starter module for gRPC framework.
 - [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
 - [xxl-conf](https://github.com/xuxueli/xxl-conf) - A lightweight distributed configuration management platform. （分布式配置管理平台XXL-CONF）
@@ -154,7 +157,7 @@
 - [jhipster](https://github.com/jhipster/jhipster) - JHipster BOM and server-side library
 - [OrderSystem](https://github.com/Titzanyic/OrderSystem) - 点餐系统 包括android客户端-后台服务
 - [LQRWeChat](https://github.com/zwStar/LQRWeChat) - 本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。
-- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. State of the Art Redis Java client
+- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate) on top of Redis server. State of the Art Redis Java client
 - [rest-client](https://github.com/wisdom-projects/rest-client) - A tool for automated testing REST API, generating exquisite testing report and REST API documentation.
 - [AndroidMultiChannelBuildTool](https://github.com/GavinCT/AndroidMultiChannelBuildTool) - 安卓多渠道打包工具
 - [IM](https://github.com/xiuweikang/IM) - 简单的仿QQ聊天安卓APP
@@ -250,6 +253,7 @@
 
 ## Others 
 
+- [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud) - Spring Cood 资源大全
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
