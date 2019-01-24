@@ -14,6 +14,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Objective-C](#objective-c)
@@ -59,6 +60,7 @@
 - [CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
 - [wing-process](https://github.com/jilieryuyi/wing-process) - The easy way to use php daemon process and multi process in windows、mac and linux
 - [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [sphinx](https://github.com/hetao29/sphinx) - Sphinx for Chinese with scws 使用方法参考 https://github.com/hetao29/sphinx-chinese
 
@@ -68,10 +70,24 @@
 
 ## Erlang 
 
+- [MongooseIM](https://github.com/esl/MongooseIM) - MongooseIM is a mobile messaging platform with focus on performance and scalability
 - [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Messaging Broker
 
 ## Go 
 
+- [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly  - JSON Parser for Go
+- [gnatsd](https://github.com/nats-io/gnatsd) - High-Performance server for NATS, the cloud native messaging system.
+- [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+- [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
+- [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
+- [qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
+- [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
+- [GUI-miner](https://github.com/stellitecoin/GUI-miner) - An easy to use GUI miner available for Windows, macOS and Linux
+- [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
+- [go-gtk](https://github.com/mattn/go-gtk) - Go binding for GTK
+- [walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
+- [qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+- [go-sciter](https://github.com/sciter-sdk/go-sciter) - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development
 - [imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
 - [redsync.go](https://github.com/hjr265/redsync.go) - *DEPRECATED* Please use https://gopkg.in/redsync.v1 (https://github.com/go-redsync/redsync)
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
@@ -121,6 +137,8 @@
 
 ## HTML 
 
+- [sciter-samples-zh](https://github.com/gxlmyacc/sciter-samples-zh) - 对sciter的一些示例文件进行了翻译
+- [sciter-doc-zh](https://github.com/gxlmyacc/sciter-doc-zh) - sciter中文帮助手册
 - [sjERP](https://github.com/co8bit/sjERP) - 神记ERP是一款基于SaaS的经营管理软件（ERP、进销存、CRM、生产管理），适用于财务、销售与采购、供应链管理、仓储库存、微商城经营等。业务流程的每一环节都可沟通协作，真正实现一站式管理销售、采购、库存账目等需求。语言：php（thinkphp）+angularjs/vue
 - [XYShop](https://github.com/freedomlizhigang/XYShop) - 单用户商城
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
@@ -132,6 +150,7 @@
 
 ## Java 
 
+- [cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的即时通讯系统
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [qmq](https://github.com/qunarcorp/qmq) - QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
 - [grpc-spring-boot-starter](https://github.com/yidongnan/grpc-spring-boot-starter) - Spring Boot starter module for gRPC framework.
@@ -168,9 +187,10 @@
 
 ## JavaScript 
 
+- [admin](https://github.com/beego/admin) - 基于beego的后台管理系统
 - [BaiduExporter](https://github.com/acgotaku/BaiduExporter) - Assistant for Baidu to export download links to aria2/aria2-rpc
 - [citySelect](https://github.com/chenjinxinlove/citySelect) - 基于微信小程序的城市选择
-- [citySelector](https://github.com/BeijiYang/citySelector) - 微信小程序 城市/区县定位选择模块 汉字/拼音搜索 可直接使用 已更新 另附 mpvue 版本 city picker / automatic positioning
+- [citySelector](https://github.com/BeijiYang/citySelector) - 微信小程序 城市/区县定位选择模块 汉字/拼音搜索 可直接使用 已重构 另附 mpvue 版本 city picker / automatic positioning
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [html2wxml](https://github.com/qwqoffice/html2wxml) - 用于微信小程序的HTML和Markdown格式的富文本渲染组件，支持代码高亮
 - [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
@@ -204,7 +224,7 @@
 - [wx-regeo-poiaround-weather](https://github.com/amap-demo/wx-regeo-poiaround-weather) - 基于微信小程序SDK实现的DEMO
 - [RNMars](https://github.com/yinmazuo/RNMars) - React-Native V2EX App
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
-- [MeiTuan](https://github.com/huanxsd/MeiTuan) - MeiTuan App Write In latest React-Native(0.50.1)
+- [MeiTuan](https://github.com/huanxsd/MeiTuan) - MeiTuan App Write In latest React-Native(0.57.8)
 - [murray](https://github.com/murrayee/murray) - react-native 聊天论坛
 - [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，配套文章，适合全面学习，对比参考。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款Flutter版本 ： https://github.com/CarGuo/GSYGithubAppFlutter 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
 - [unwxapkg](https://github.com/thedreamwork/unwxapkg) - unpack wxapkg
@@ -224,7 +244,6 @@
 - [bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 3.x with file preview, multiple selection, and more features.
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 - [vue-demo-kugou](https://github.com/lavyun/vue-demo-kugou) - 酷狗webapp demo(vue2.0+vue-router+vuex)
-- [incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
 - [react-antd-admin](https://github.com/fireyy/react-antd-admin) - This Project Is Deprecated. Use [Ant Design Pro](https://pro.ant.design/) instead.
 - [validator.js](https://github.com/chriso/validator.js) - String validation
@@ -234,6 +253,10 @@
 - [angular-ueditor](https://github.com/zqjimlove/angular-ueditor) - Angular port for Baidu UEditor
 - [smartmenus-bootstrap](https://github.com/vadikom/smartmenus-bootstrap) - Shim repository for the npm package of the SmartMenus jQuery plugin Bootstrap addon.
 - [editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+
+## Jupyter Notebook 
+
+- [RoudDetect](https://github.com/wwbweibo/RoudDetect) - 道路裂缝识别
 
 ## Lua 
 
@@ -253,6 +276,7 @@
 
 ## Others 
 
+- [APUE_notes](https://github.com/huaxz1986/APUE_notes) - 《UNIX环境高级编程》中文第三版笔记
 - [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud) - Spring Cood 资源大全
@@ -312,8 +336,8 @@
 
 ## Python 
 
+- [python3-concurrency-pics-02](https://github.com/wangy8961/python3-concurrency-pics-02) - 爬取 www.mzitu.com 全站图片，截至目前共4564个图集，13.7万多张美女图片，使用 asyncio 和 aiohttp 实现的异步版本只需要不到2小时就能爬取完成。按日期创建图集目录，保存更合理。控制台只显示下载的进度条，详细信息保存在日志文件中。支持异常处理，不会终止爬虫程序。失败的请求，下次再执行爬虫程序时会自动下载
 - [celerybeatredis](https://github.com/liuliqiang/celerybeatredis) - celery redis scheduler, dynamic add/modify/delete task from celery.
-- [RoudDetect](https://github.com/wwbweibo/RoudDetect) - 道路裂缝识别
 - [redlock-py](https://github.com/SPSCommerce/redlock-py) - Redis distributed locks in Python
 - [VManagePlatform](https://github.com/welliamcao/VManagePlatform) - Kvm  Manage WebUI
 - [python-ngrok](https://github.com/hauntek/python-ngrok) - 
@@ -322,14 +346,14 @@
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
-- [rebound](https://github.com/shobrook/rebound) - Command-line tool that automatically fetches Stack Overflow results after compiler errors
+- [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results after compiler errors
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [lsbaws](https://github.com/rspivak/lsbaws) - Let's Build A Web Server
 - [pymqant](https://github.com/liangdas/pymqant) - python版本mqant游戏框架
 - [ProcessHandler](https://github.com/rfyiamcool/ProcessHandler) - 🍭 Manage your python app's process !
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - Python wrapper of Microsoft UIAutomation. Compatible with py2,py3,x86,x64. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt(partly), IE, Firefox ...
+- [Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - Python wrapper of Microsoft UIAutomation. Compatible with py2,py3,x86,x64. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt(partly), IE, Firefox, Chrome ...
 - [ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
@@ -355,6 +379,8 @@
 
 ## TypeScript 
 
+- [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters
+- [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin)
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
