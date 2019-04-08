@@ -14,7 +14,9 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Objective-C](#objective-c)
@@ -32,6 +34,7 @@
 
 ## C 
 
+- [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc) - A low latency, high framerate screen sharing server for Windows and client for browsers
 - [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
@@ -47,6 +50,7 @@
 
 ## C# # 
 
+- [RemoteDesktop](https://github.com/jasonpang/RemoteDesktop) - A from-scratch re-implementation of VNC / TeamViewer / Remote Desktop. Working screen transfer, NAT traversal / UDP hole punching, uses a mirror driver.
 - [peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
 - [OzgMenuSys](https://github.com/ouzhigang/OzgMenuSys) - Ozg点餐系统，NodeJS + Android + .Net ，基于WebSocket。
 - [Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex.
@@ -54,6 +58,12 @@
 
 ## C++ 
 
+- [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
+- [proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
+- [EasyScreenLive](https://github.com/EasyDSS/EasyScreenLive) - EasyScreenLive是一款简单、高效、稳定的集采集，编码，组播，推流和流媒体RTSP服务于一身的同屏功能组件，具低延时，高效能，低丢包等特点。目前支持Windows，Android平台，通过EasyScreenLive我们就可以避免接触到稍显复杂的音视频源采集，编码和流媒体推送以及RTSP/RTP/RTCP/RTMP服务流程，只需要调用EasyScreenLive的几个API接口，就能轻松、稳定地把流媒体音视频数据RTMP推送给EasyDSS服务器以及发布RTSPServer服务，RTSP同屏服务支持组播和单播两种模式。
+- [ppeasy](https://github.com/dengzy401/ppeasy) - P2P传输(流媒体+P2P)SDK库，功能强大的内网穿透（UDP打洞）库，支持rtmp、hls、sip等多种协议
+- [srs](https://github.com/ossrs/srs) - SRS is a simple live streaming cluster, a simple joy.
+- [minicap](https://github.com/openstf/minicap) - Stream real-time screen capture data out of Android devices.
 - [predixy](https://github.com/joyieldInc/predixy) - A high performance and fully featured proxy for redis, support redis sentinel and redis cluster
 - [Tars](https://github.com/TarsCloud/Tars) - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.
 - [OzgGameEatFish](https://github.com/ouzhigang/OzgGameEatFish) - OzgGame - 大鱼吃小鱼，cocos2d-x-3.9
@@ -75,6 +85,14 @@
 
 ## Go 
 
+- [ElasticHD](https://github.com/360EntSecGroup-Skylar/ElasticHD) - Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等
+- [smux](https://github.com/xtaci/smux) - Simple Stream Multiplexing for golang
+- [joy4](https://github.com/nareix/joy4) - Golang audio/video library and streaming server
+- [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs
+- [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
+- [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet
+- [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
+- [surgemq](https://github.com/zentures/surgemq) - (Unmaintained) High-Performance MQTT Server and Client Libraries
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly  - JSON Parser for Go
 - [gnatsd](https://github.com/nats-io/gnatsd) - High-Performance server for NATS, the cloud native messaging system.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -82,7 +100,7 @@
 - [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
 - [qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [GUI-miner](https://github.com/stellitecoin/GUI-miner) - An easy to use GUI miner available for Windows, macOS and Linux
+- [GUI-miner](https://github.com/contribute-torque/GUI-miner) - An easy to use GUI miner available for Windows, macOS and Linux
 - [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [go-gtk](https://github.com/mattn/go-gtk) - Go binding for GTK
 - [walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
@@ -98,7 +116,7 @@
 - [im_service](https://github.com/GoBelieveIO/im_service) - golang   im   server
 - [kcp-go](https://github.com/xtaci/kcp-go) - A Production-Grade Reliable-UDP Library for golang
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。
+- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket,TCP, UDP,Secure DNS,Socks5 proxy server .Chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding ,ipv4 and ipv6 supporting .Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,支持ipv4和ipv6,集成外部API。
 - [goim](https://github.com/Terry-Mao/goim) - goim
 - [centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging server (Websocket and SockJS)
 - [sockjs-go](https://github.com/igm/sockjs-go) - WebSocket emulation - Go server library
@@ -110,8 +128,7 @@
 - [go-libav](https://github.com/imkira/go-libav) - Go language bindings for ffmpeg libraries
 - [goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg
 - [livego](https://github.com/gwuhaolin/livego) - 纯 Go 写的直播服务器
-- [meq](https://github.com/mafanr/meq) - A modern messaging platform for Message Push、IM、IoT etc, based on MQTT protocol
-- [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language  bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
+- [flap](https://github.com/imdevlab/flap) - http://flap.dev -  a modern pub/sub messaging system, written in pure go
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [gorose](https://github.com/gohouse/gorose) - GoRose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides five major database drivers: mysql,sqlite3,postgres,oracle,mssql.
@@ -141,6 +158,7 @@
 - [sciter-doc-zh](https://github.com/gxlmyacc/sciter-doc-zh) - sciter中文帮助手册
 - [sjERP](https://github.com/co8bit/sjERP) - 神记ERP是一款基于SaaS的经营管理软件（ERP、进销存、CRM、生产管理），适用于财务、销售与采购、供应链管理、仓储库存、微商城经营等。业务流程的每一环节都可沟通协作，真正实现一站式管理销售、采购、库存账目等需求。语言：php（thinkphp）+angularjs/vue
 - [XYShop](https://github.com/freedomlizhigang/XYShop) - 单用户商城
+- [rpcx](https://github.com/smallnest/rpcx) - Faster multil-language  bidirectional RPC framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it!
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [BG-UI](https://github.com/liyu365/BG-UI) - BG-UI，一个可以快速上手的后台UI框架
 - [mqtt](https://github.com/mcxiaoke/mqtt) - MQTT 3.1.1 Protocol Chinese Translation
@@ -150,6 +168,12 @@
 
 ## Java 
 
+- [redis-manager](https://github.com/ngbdf/redis-manager) - Redis 一站式管理平台，支持集群创建、管理、监控、报警
+- [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) - 国内外为数不多致力于极致体验的超强全自研跨平台(windows/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。
+- [TestChat](https://github.com/HelloChenJinJun/TestChat) - 一个后台基于bmob的开源社交app
+- [eventuate-tram-sagas](https://github.com/eventuate-tram/eventuate-tram-sagas) - Sagas for microservices
+- [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+- [paascloud-master](https://github.com/paascloud/paascloud-master) - spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
 - [cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的即时通讯系统
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [qmq](https://github.com/qunarcorp/qmq) - QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
@@ -187,10 +211,14 @@
 
 ## JavaScript 
 
+- [XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
+- [winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - WordPress版微信小程序
+- [stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
+- [leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [admin](https://github.com/beego/admin) - 基于beego的后台管理系统
 - [BaiduExporter](https://github.com/acgotaku/BaiduExporter) - Assistant for Baidu to export download links to aria2/aria2-rpc
 - [citySelect](https://github.com/chenjinxinlove/citySelect) - 基于微信小程序的城市选择
-- [citySelector](https://github.com/BeijiYang/citySelector) - 微信小程序 城市/区县定位选择模块 汉字/拼音搜索 可直接使用 已重构 另附 mpvue 版本 city picker / automatic positioning
+- [citySelector](https://github.com/BeijiYang/citySelector) - 微信小程序 城市/区县定位选择模块 汉字/拼音搜索 可直接使用 已重构 另附 mpvue 版本 city picker / auto positioning / auto complete / refactoring
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [html2wxml](https://github.com/qwqoffice/html2wxml) - 用于微信小程序的HTML和Markdown格式的富文本渲染组件，支持代码高亮
 - [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
@@ -205,7 +233,6 @@
 - [pinche_xcx](https://github.com/vincenth520/pinche_xcx) - 同城拼车微信小程序:blush:
 - [miniProgramAmap](https://github.com/zzwwjjdj319/miniProgramAmap) - 微信小程序基于高德地图API出行路线规划,地图导航
 - [wechat-im](https://github.com/unmagic/wechat-im) - 微信小程序即时通讯模板，使用WebSocket通信
-- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [GitterMobile](https://github.com/apiko-dev/GitterMobile) - Unofficial Gitter.im (chat for GitHub) client for iOS and Android. [build with react-native]
 - [react-native-chat-demo](https://github.com/reactnativecomponent/react-native-chat-demo) - 网易云信IM示例
 - [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Official React Native Client for Rocket.Chat
@@ -218,7 +245,7 @@
 - [jeesite4](https://github.com/thinkgem/jeesite4) - Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE），在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源
 - [jeesite](https://github.com/thinkgem/jeesite) - JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
 - [meituan-backend](https://github.com/zwStar/meituan-backend) - 模仿美团外卖后端
-- [light-push](https://github.com/liutian/light-push) - 轻量级推送服务和实时在线监控平台，基于node的socket.io，支持web、android、ios客户端，支持移动端离线推送，可大规模集群部署
+- [light-push](https://github.com/liutian/light-push) - 轻量级推送服务和实时在线监控平台，同时用于开发即时通信系统，基于node的socket.io，支持web、android、ios客户端，支持移动端离线推送，可进行分布式部署
 - [KeFu](https://github.com/gytai/KeFu) - 在线客服系统，开发语言：NodeJS。通信库：Socket.IO。UI库：前端SUI，后端LayUI.
 - [eweapp](https://github.com/tumobi/eweapp) - eweapp：ECShop非官方版微信小程序商城
 - [wx-regeo-poiaround-weather](https://github.com/amap-demo/wx-regeo-poiaround-weather) - 基于微信小程序SDK实现的DEMO
@@ -234,7 +261,7 @@
 - [react-native-bookkeeping](https://github.com/378056350/react-native-bookkeeping) - 基于react native, 模仿的鲨鱼记账app
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
-- [nideshop](https://github.com/tumobi/nideshop) - NideShop 开源微信小程序商城服务端（Node.js + ThinkJS）
+- [nideshop](https://github.com/tumobi/nideshop) - NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）
 - [nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program) - NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
 - [wechat-weapp-mall](https://github.com/liuxuanqiang/wechat-weapp-mall) - 微信小程序-移动端商城
 - [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
@@ -247,19 +274,29 @@
 - [reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
 - [react-antd-admin](https://github.com/fireyy/react-antd-admin) - This Project Is Deprecated. Use [Ant Design Pro](https://pro.ant.design/) instead.
 - [validator.js](https://github.com/chriso/validator.js) - String validation
-- [docute](https://github.com/leptosia/docute) - 📚 Effortless documentation, done right.
+- [docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [zkdash](https://github.com/ireaderlab/zkdash) - A dashboard for zookeeper and Qconf
 - [cmdb](https://github.com/voilet/cmdb) - cmdb saltstack
+- [thinkcmf](https://github.com/thinkcmf/thinkcmf) - ThinkCMF是一款支持Swoole的开源内容管理框架，基于ThinkPHP5.1开发，同时支持PHP-FPM和Swoole双模式，让WEB开发更快!
 - [angular-ueditor](https://github.com/zqjimlove/angular-ueditor) - Angular port for Baidu UEditor
 - [smartmenus-bootstrap](https://github.com/vadikom/smartmenus-bootstrap) - Shim repository for the npm package of the SmartMenus jQuery plugin Bootstrap addon.
 - [editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+
+## Julia 
+
+- [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
 
 ## Jupyter Notebook 
 
 - [RoudDetect](https://github.com/wwbweibo/RoudDetect) - 道路裂缝识别
 
+## Kotlin 
+
+- [CPWechatXposed](https://github.com/coder-pig/CPWechatXposed) - 使用Xposed Hook微信等APP
+
 ## Lua 
 
+- [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 - [orange](https://github.com/sumory/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
 
 ## Makefile 
@@ -276,15 +313,19 @@
 
 ## Others 
 
+- [nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) - These notes describes how to improve Nginx performance, security and other important things; @ssllabs A+ 100%.
+- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [APUE_notes](https://github.com/huaxz1986/APUE_notes) - 《UNIX环境高级编程》中文第三版笔记
 - [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud) - Spring Cood 资源大全
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
+- [awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud) - Spring Cloud 资源大全
 - [microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 
 ## PHP 
 
+- [shopxo](https://github.com/gongfuxiang/shopxo) - ShopXO商城系统、国内领先企业级B2C免费开源电商系统，包含PC/wap/小程序，遵循Apache2开源协议发布
 - [Talkback](https://github.com/johnnyhuila2016/Talkback) - 手机对讲系统
 - [lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code.
 - [redlock-php](https://github.com/ronnylt/redlock-php) - Redis distributed locks in PHP
@@ -316,8 +357,7 @@
 - [MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
 - [Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 - [Beanbun](https://github.com/kiddyuchina/Beanbun) - Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。
-- [pixie](https://github.com/usmanhalalit/pixie) - [Not Actively Maintained] Database query builder for PHP, framework agnostic, lightweight and expressive.
-- [thinkcmf](https://github.com/thinkcmf/thinkcmf) - ThinkCMF5  is a content manage framework ,based on ThinkPHP5
+- [pixie](https://github.com/usmanhalalit/pixie) - Database query builder for PHP, framework agnostic, lightweight and expressive.
 - [react](https://github.com/reactphp/react) - Event-driven, non-blocking I/O with PHP.
 - [think-worker](https://github.com/top-think/think-worker) - ThinkPHP5 Workerman extend
 - [php-simplemail-receiver](https://github.com/gawonmi/php-simplemail-receiver) - Simple library to connect to a POP3/IMAP mail server and receive mails (with attachements)
@@ -336,6 +376,8 @@
 
 ## Python 
 
+- [darkflow](https://github.com/thtrieu/darkflow) - Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
+- [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - [python3-concurrency-pics-02](https://github.com/wangy8961/python3-concurrency-pics-02) - 爬取 www.mzitu.com 全站图片，截至目前共4564个图集，13.7万多张美女图片，使用 asyncio 和 aiohttp 实现的异步版本只需要不到2小时就能爬取完成。按日期创建图集目录，保存更合理。控制台只显示下载的进度条，详细信息保存在日志文件中。支持异常处理，不会终止爬虫程序。失败的请求，下次再执行爬虫程序时会自动下载
 - [celerybeatredis](https://github.com/liuliqiang/celerybeatredis) - celery redis scheduler, dynamic add/modify/delete task from celery.
 - [redlock-py](https://github.com/SPSCommerce/redlock-py) - Redis distributed locks in Python
@@ -346,14 +388,14 @@
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
-- [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results after compiler errors
+- [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [lsbaws](https://github.com/rspivak/lsbaws) - Let's Build A Web Server
 - [pymqant](https://github.com/liangdas/pymqant) - python版本mqant游戏框架
 - [ProcessHandler](https://github.com/rfyiamcool/ProcessHandler) - 🍭 Manage your python app's process !
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - Python wrapper of Microsoft UIAutomation. Compatible with py2,py3,x86,x64. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt(partly), IE, Firefox, Chrome ...
+- [Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt(partly), IE, Firefox, Chrome ...
 - [ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
@@ -370,6 +412,7 @@
 
 ## Shell 
 
+- [libhoudini](https://github.com/Rprop/libhoudini) - the default ARM translation layer for x86, extracted partly from Nexus Player
 - [SpringCloudLearning](https://github.com/cyc3552637/SpringCloudLearning) - project for spring cloud learning
 - [mailserver](https://github.com/hardware/mailserver) - :whale: Simple and full-featured mail server using Docker
 
@@ -379,7 +422,9 @@
 
 ## TypeScript 
 
-- [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters
+- [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) - 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
+- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin)
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
